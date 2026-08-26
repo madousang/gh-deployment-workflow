@@ -1,0 +1,8 @@
+{
+  "name": "SiraFoncier - Gestion Foncière Blockchain",
+  "description": "Système sécurisé de gestion foncière pour le Mali utilisant la technologie Blockchain, PostgreSQL/PostGIS et React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
